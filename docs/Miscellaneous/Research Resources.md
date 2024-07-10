@@ -8,4 +8,4 @@ This is a list of useful links to multiple Ontario Tech research resources to as
 - [(External) KPU Guide to Doing Research](https://kpu.pressbooks.pub/doingresearch/front-matter/introduction-2/)
 - [Book a Research Appointment with an OTU Subject Librarian](https://ontariotechu.ca/sites/library/about/subject-librarians.php)
 - [Ontario Tech NOOL - Academic Writing Resources](https://nool.ontariotechu.ca/writing/index.php)
-- [MyBib Citation & Bibligraphy Generator (double check your entries, it can make mistakes)](https://www.mybib.com/)
+- [MyBib Citation & Bibliography Generator (double check your entries, it can make mistakes)](https://www.mybib.com/)
