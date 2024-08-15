@@ -4,3 +4,5 @@
 - **Prerequisites:** N/A
 
 ## Study Resources
+- [Discrete Math I (Entire Course)](https://www.youtube.com/playlist?list=PLl-gb0E4MII28GykmtuBXNUNoej-vY5Rz)
+  - YouTube playlist by a university professor, based on 7th edition of the textbook
