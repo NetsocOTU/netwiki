@@ -1,7 +1,6 @@
 *Originally posted on February 6, 2023 by Hayden Nolan*  
   
-Big-O (along with big-Theta and big-Omega) are concepts in mathematics and computer science that were popularized by the legendary [Donald Knuth](https://en.wikipedia.org/wiki/Donald_Knuth). If you're studying  
-anything to do with computers, you'll likely run into this concept at some point, and it can be hard to wrap your head around at first.    
+Big-O (along with big-Theta and big-Omega) are concepts in mathematics and computer science that were popularized by the legendary [Donald Knuth](https://en.wikipedia.org/wiki/Donald_Knuth). If you're studying anything to do with computers, you'll likely run into this concept at some point, and it can be hard to wrap your head around at first.    
   
 TL;DR, $f(x)=O(g(x))$ with witnesses $C, k$ means that $f(x) \le Cg(x) \forall x \ge k$  
 
